@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<metadata>
+    <layout title="COM_AJAXUPLOAD_NAME1"/>
+    <fields name="request">
+        <fieldset
+                name="request"
+                addfieldpath="/administrator/components/com_ajaxupload/models/fields">
+
+        </fieldset>
+    </fields>
+</metadata>
